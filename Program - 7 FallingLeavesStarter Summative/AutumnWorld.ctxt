@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=AutumnWorld
+comment0.text=\r\n\ Keeps\ track\ of\ the\ startup\ placement\ and\ helps\ a\ lot\ with\ the\ scoreboard\r\n\ (and\ adds\ the\ background)\r\n\ \r\n\ @author\ (Des)\ \r\n\ @version\ (This\ is\ the\ first\ version\:\ 10/30/2018)\r\n
+comment1.params=
+comment1.target=AutumnWorld()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ FallWorld.\r\n\ \r\n\ There\ are\ no\ parameters\ and\ there\ isnt\ a\ return\ type\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\nact\ -\ things\ you\ want\ to\ do\ each\ time\ around\ go\ in\ here\r\n\ \r\n
+comment3.params=
+comment3.target=void\ randomLeaf()
+comment3.text=\r\n\ Puts\ the\ leaf\ in\ a\ random\ position\ on\ the\ screen\r\n\ \r\n\ there\ are\ no\ parameters\ and\ there\ isn't\ a\ return\ type\r\n
+comment4.params=
+comment4.target=void\ update()
+numComments=5

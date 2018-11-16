@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Catcher
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ CatcherMove()
+comment2.text=\r\n\ Gives\ the\ player\ the\ ability\ to\ move\ left\ and\ right\ using\ the\ arrow\r\n\ keys.\ Also\ senses\ if\ the\ Catcher\ is\ touching\ a\ leaf\ and\ removes\ it\r\n\ while\ making\ sure\ to\ update\ the\ score.\r\n\ \r\n\ @param\ There\ are\ none\r\n\ @return\ There\ isn't\ one\r\n
+numComments=3

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Scoreboard
+comment0.text=\r\n\ The\ scoreboard\ adds\ a\ score\ at\ the\ top\ left\ side\ of\ the\ screen,\ allowing\r\n\ you\ to\ win\ the\ game\r\n\ \r\n\ @author\ (Des)\ \r\n\ @version\ (1)\r\n
+comment1.params=
+comment1.target=Scoreboard()
+comment1.text=\r\n\ Sets\ the\ visible\ part\ of\ the\ scoreboard\ that\ you\ actually\ can\ see,\r\n\ allowing\ you\ to\ know\ how\ many\ leaves\ you've\ caught\ and\ when\ you've\r\n\ won.\r\n\ \r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ There\ is\ no\ return\ type\r\n
+comment2.params=
+comment2.target=void\ addToScore()
+comment2.text=\r\n\ Code\ that\ adds\ points\ to\ the\ visible\ score\ whenever\ a\ leaf\ is\ caught\r\n\ and\ stops\ the\ code\ when\ the\ player\ wins\r\n\ \r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ There\ is\ no\ return\ type\r\n
+numComments=3
