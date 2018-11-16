@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Leaf
+comment1.params=
+comment1.target=Leaf()
+comment1.text=\r\n\ Sets\ four\ possible\ images\ to\ represent\ a\ leaf\ whenever\ it\ spawns\ in.\r\n\ \r\n\ @param\ There\ are\ none\r\n\ @return\ There\ isnt\ one\r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ moveDown()
+comment3.text=\r\n\ Makes\ the\ leaves\ move\ diagonally\ across\ the\ screen\ and\ removes\ them\r\n\ from\ the\ world\ if\ they\ touch\ the\ edge.\r\n\ \r\n\ @param\ There\ are\ none\r\n\ @return\ There\ isn't\ one\r\n
+numComments=4
